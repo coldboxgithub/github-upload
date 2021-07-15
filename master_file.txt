@@ -1,0 +1,2 @@
+File name : master_file.txt
+Step 1. This is the files exist in the master branch but not in mylocal_branch
