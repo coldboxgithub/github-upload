@@ -10,6 +10,10 @@
 *.userosscache
 *.sln.docstates
 
+# Screenshots I took for me to understand Git. Ignore these two file *.gif and *.png
+gitbranc3VsMasterbranch.gif
+originmasterVsBranch3.png
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
