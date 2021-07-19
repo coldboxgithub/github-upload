@@ -3,3 +3,5 @@ Step 1. This is the files exist in the master branch but not in mylocal_branch
 
 This is wil create a conflict between master and mylocal_branch
 because there code is different on this particular line (line 4 - 5).
+
+New branch added SDN
