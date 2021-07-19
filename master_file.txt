@@ -5,3 +5,4 @@ This is wil create a conflict between master and mylocal_branch
 because there code is different on this particular line (line 4 - 5).
 
 New branch added SDN
+New branch added AUTH
